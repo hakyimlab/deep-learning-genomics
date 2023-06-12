@@ -1,6 +1,8 @@
 # deep-learning-genomics
 Summer immersion syllabus in deep learning in genomics
 
+
+
 ## Organizers/Instructors
 - Hae Kyung Im
 - Ravi Madduri
@@ -17,6 +19,8 @@ Summer immersion syllabus in deep learning in genomics
 ## Learning Objectives
 
 ## Syllabus
+
+[Draft Syllabus](https://hakyimlab.notion.site/Syllabus-of-Deep-Learning-in-Genomics-d1c308f6fc2d4e54ae9e19e492671e2a?pvs=4)
 
 Welcome to our intensive 8-week course on deep learning in genomics. 
 
@@ -35,24 +39,19 @@ Get ready to explore the fascinating intersection of deep learning and genomics.
 
 The syllabus will change as we will customize it to the needs of the team.
 
-- Things we use
+## Concepts
+
+
+## Tool list
     
     Vscode
-    
     Code
-    
     Conda
-    
     Pip
-    
     Numpy
-    
     GitHub 
-    
     Jupyter notebook
-    
     PyTorch 
-    
     Linux
     
 
