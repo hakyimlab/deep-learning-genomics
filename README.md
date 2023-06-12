@@ -1,20 +1,17 @@
 # deep-learning-genomics
 Summer immersion syllabus in deep learning in genomics
 
-
-
 ## Organizers/Instructors
 - Hae Kyung Im
 - Ravi Madduri
 
 ## Students
-- Srusti - (Uchicago - rising second year College - Katen Scholar 2023)
-- Rachel - (Uchicago - rising second year College - Metcalf fellowship 2023)
-- Sabrina - (UCSD - rising second year Math PhD - R01AA029688)
-- Tiffany Huang (UChicago - rising third year College - BSD Quantitative Biology Fellowship 2023)
+- Srusti Donapati - (Uchicago - rising second year College - Katen Scholar 2023)
+- Rachel Rodriguez - (Uchicago - rising second year College - Metcalf fellowship 2023)
+- Sabrina Mi - (UCSD - rising second year Math PhD - R01AA029688)
+- Tiffany Huang - (UChicago - rising third year College - BSD Quantitative Biology Fellowship 2023)
 - Laura Vairus (Harvey Mudd College, rising 2nd year)
 - Dante Vairus (UChicago Lab School - rising 12th year)
-
 
 ## Learning Objectives
 
@@ -40,19 +37,36 @@ Get ready to explore the fascinating intersection of deep learning and genomics.
 The syllabus will change as we will customize it to the needs of the team.
 
 ## Concepts
+- Central dogma of molecular biology
+- DNA, RNA, proteins
+- transcription, splicing, translation
+- gene regulation
+- GWAS
+- Transcription factors (TFs)
+- Promoters, Enhancers
+- Chromatin structure
+- Histone modifications
+- DNA methylation
+- genetic variation, SNP, structural variation
+- Selection
+- Coalescence and DNA sequence conservation
+- linking variation to function
 
+- linux file system navigation
+- environmental variables (PATH, SHELL)
+- 
 
 ## Tool list
     
-    Vscode
-    Code
-    Conda
-    Pip
-    Numpy
-    GitHub 
-    Jupyter notebook
-    PyTorch 
-    Linux
+- Vscode
+- Code
+- Conda
+- Pip
+- Numpy
+- GitHub 
+- Jupyter notebook
+- PyTorch 
+- Linux
     
 
 [Cheatsheets](https://www.notion.so/Cheatsheets-664ee29b94e5440b81305a9d7cfe6893?pvs=21)
