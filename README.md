@@ -6,7 +6,12 @@ Summer immersion syllabus in deep learning in genomics
 - Ravi Madduri
 
 ## Students
-- 
+- Srusti - (Uchicago - rising second year College - Katen Scholar 2023)
+- Rachel - (Uchicago - rising second year College - Metcalf fellowship 2023)
+- Sabrina - (UCSD - rising second year Math PhD - R01AA029688)
+- Tiffany Huang (UChicago - rising third year College - BSD Quantitative Biology Fellowship 2023)
+- Laura Vairus (Harvey Mudd College, rising 2nd year)
+- Dante Vairus (UChicago Lab School - rising 12th year)
 
 
 ## Learning Objectives
