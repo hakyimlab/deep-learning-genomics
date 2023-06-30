@@ -1,6 +1,8 @@
 # deep-learning-genomics
 Summer immersion syllabus in deep learning in genomics
 
+- [ ] update using https://hakyimlab.notion.site/Syllabus-of-Deep-Learning-in-Genomics-d1c308f6fc2d4e54ae9e19e492671e2a?pvs=4
+
 ## Organizers/Instructors
 - Hae Kyung Im
 - Ravi Madduri
